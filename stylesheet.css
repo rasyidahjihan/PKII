@@ -1,0 +1,88 @@
+h1 {
+    color:red;
+    font-size:30px;
+    background-color:#f3f372;
+    height:80px;
+    width:200px;
+    font-family:serif;
+  }
+  p {
+    color:green;
+    font-size:20px;
+    height:50px;
+    width:100px;
+  }
+  img {
+    height:150px;
+    width:200px;
+  }
+  li {
+   float: left;
+   padding:20px
+  }
+  header-logo {
+   float: left;
+   front-size: 10px;
+  }
+  h3 {
+    color:black;
+    font-size:50px;
+    background-color:blue;
+    height:50px;
+    width:100px;
+  }
+  .selected {
+    color:red;
+  }
+  .footer {
+    color:#fff;
+    background-color:#2f5167;
+    height:120px;
+    padding:48px;
+  }
+  .footer-logo {
+    front-size:32px;
+    float:left;
+  }
+  .footer-list {
+    float:right;
+  }
+  .footer-list li {
+    pdding-bottom:20px
+  }
+  .main {
+    padding: 100px 80px;
+  }
+  .copy-container h2 {
+    font-size: 60 px;
+  }
+  .copy-container span {
+    color: #ff4a4a;
+  }
+  .contents {
+    height:500px
+  }
+  .selection-title {
+    border-bottom:2px solid #dee7ec; 
+  }
+  .contents {
+     height:500px;
+     margin-top:100px;
+  }
+  .section-title {
+     border-bottom:2px solid #dee7ec;
+     font-size:28px;
+     padding-bottom:15px;
+     margin-bottom:50px;
+  }
+  .contents-item {
+     float:left;
+     margin-right:40px
+  }
+  .contents-item p {
+     font-size:24;
+     margin-top:30px
+  }
+  .footer {
+     background-color:#ddd
+     height:270px
